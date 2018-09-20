@@ -664,7 +664,6 @@ and our administrator may contact you if we need any extra information.</h4>
     </div>
   </div>
 </div> {% comment %} End of 'R' section. {% endcomment %}
-{% endcomment %}
 
 <div id="sql"> {% comment %} Start of 'SQLite' section. {% endcomment %}
   <h3>SQLite</h3>
@@ -758,6 +757,7 @@ and our administrator may contact you if we need any extra information.</h4>
     </div>
   </div>
 </div> {% comment %} End of 'OpenRefine' section. {% endcomment %}
+{% endcomment %}
 
 {% comment %}
 <div id="vm">
