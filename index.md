@@ -192,25 +192,8 @@ and our administrator may contact you if we need any extra information.</h4>
   for more information.
 </p>
 
-<hr/>
 
-{% comment %} 
- SURVEYS - DO NOT EDIT SURVEY LINKS 
-{% endcomment %}
-<h2 id="surveys">Surveys</h2>
-<p>Please be sure to complete these surveys before and after the workshop.</p>
-{% if site.carpentry == "swc" %} 
-<p><a href="{{ site.swc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
-<p><a href="{{ site.swc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
-{% elsif site.carpentry == "dc" %}
-<p><a href="{{ site.dc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
-<p><a href="{{ site.dc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
-{% elsif site.carpentry == "lc" %}
-<p><a href="{{ site.lc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
-<p><a href="{{ site.lc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
-{% endif %}
 
-<hr/>
 
 
 
@@ -219,7 +202,7 @@ and our administrator may contact you if we need any extra information.</h4>
 
 <h3>Below are all the links to the lessons and the data used in them</h3>
 
-<p>
+<li>
 First lesson: The Unix Shell (Bash)
 Lessons online : http://swcarpentry.github.io/shell-novice/
 
@@ -240,13 +223,42 @@ Linux:
 wget http://swcarpentry.github.io/shell-novice/data/shell-novice-data.zip
 
 unzip shell-novice-data.zip
-</p>
+</li>
 
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+<hr/>
+
+{% comment %} 
+ SURVEYS - DO NOT EDIT SURVEY LINKS 
+{% endcomment %}
+<h2 id="surveys">Surveys</h2>
+<p>Please be sure to complete these surveys before and after the workshop.</p>
+{% if site.carpentry == "swc" %} 
+<p><a href="{{ site.swc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
+<p><a href="{{ site.swc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
+{% elsif site.carpentry == "dc" %}
+<p><a href="{{ site.dc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
+<p><a href="{{ site.dc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
+{% elsif site.carpentry == "lc" %}
+<p><a href="{{ site.lc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
+<p><a href="{{ site.lc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
+{% endif %}
+
+<hr/>
 
 
 {% comment %}
