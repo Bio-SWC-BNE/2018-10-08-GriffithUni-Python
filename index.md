@@ -204,9 +204,9 @@ and our administrator may contact you if we need any extra information.</h4>
 
 <h3>First lesson: The Unix Shell (Bash)</h3>
 
-<li>Lessons online : <a href="http://swcarpentry.github.io/shell-novice/"</a></li>
+<li>Lessons online : <a href="http://swcarpentry.github.io/shell-novice/">shell lessons</a>.</li>
 
-<li>Data to download: <a href="http://swcarpentry.github.io/shell-novice/data/data-shell.zip"</a></li>
+<li>Data to download: <a href="http://swcarpentry.github.io/shell-novice/data/data-shell.zip">download data</a>.</li>
 
 <li>Please unzip after downloading. If you are in Mac or Linux, you can use the following commands:</li>
 
