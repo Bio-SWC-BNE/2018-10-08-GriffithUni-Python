@@ -214,13 +214,13 @@ and our administrator may contact you if we need any extra information.</h4>
 
 <li>Mac:</li>
 
-curl -O <a href="http://swcarpentry.github.io/shell-novice/data/shell-novice-data.zip"</a></li>
+curl -O http://swcarpentry.github.io/shell-novice/data/shell-novice-data.zip
 
 <li>unzip shell-novice-data.zip</li>
 
 <li>Linux:</li>
 
-wget <a href="http://swcarpentry.github.io/shell-novice/data/shell-novice-data.zip"</a></li>
+wget http://swcarpentry.github.io/shell-novice/data/shell-novice-data.zip
 
 <li>unzip shell-novice-data.zip</li>
 
