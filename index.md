@@ -48,8 +48,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <iframe
 	src="https://docs.google.com/forms/d/e/1FAIpQLSd7va5FimeUcEE0-9ELdaCRDN70N8rdjHRU3OpW6Jx4N68xcQ/viewform?embedded=true" 
-	width="100%" 
-	height="1500" 
+	width="200%" 
+	height="1000" 
 	frameborder="0" 
 	marginheight="0" 
 	marginwidth="0">
@@ -202,28 +202,27 @@ and our administrator may contact you if we need any extra information.</h4>
 
 <h3>Below are all the links to the lessons and the data used in them</h3>
 
-<li>
-First lesson: The Unix Shell (Bash)
-Lessons online : http://swcarpentry.github.io/shell-novice/
+<h3>First lesson: The Unix Shell (Bash)</h3>
 
-Data to download: http://swcarpentry.github.io/shell-novice/data/data-shell.zip
+<li>Lessons online : <a href="http://swcarpentry.github.io/shell-novice/"</a></li>
 
-Please unzip after downloading. If you are in Mac or Linux, you can use the following commands:
+<li>Data to download: <a href="http://swcarpentry.github.io/shell-novice/data/data-shell.zip"</a></li>
 
-Windows: you can download it and move it to the folder you plan on working in, then unzip it by right clicking
+<li>Please unzip after downloading. If you are in Mac or Linux, you can use the following commands:</li>
 
-Mac:
+<li>Windows: you can download it and move it to the folder you plan on working in, then unzip it by right clicking</li>
 
-curl -O http://swcarpentry.github.io/shell-novice/data/shell-novice-data.zip
+<li>Mac:</li>
 
-unzip shell-novice-data.zip
+curl -O <a href="http://swcarpentry.github.io/shell-novice/data/shell-novice-data.zip"</a></li>
 
-Linux:
+<li>unzip shell-novice-data.zip</li>
 
-wget http://swcarpentry.github.io/shell-novice/data/shell-novice-data.zip
+<li>Linux:</li>
 
-unzip shell-novice-data.zip
-</li>
+wget <a href="http://swcarpentry.github.io/shell-novice/data/shell-novice-data.zip"</a></li>
+
+<li>unzip shell-novice-data.zip</li>
 
 
 
