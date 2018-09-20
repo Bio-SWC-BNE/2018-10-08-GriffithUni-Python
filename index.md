@@ -40,7 +40,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <iframe
   src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt"
   frameborder="0"
-  width="200%"
+  width="100%"
   height="280px"
   scrolling="auto">
 </iframe>
@@ -48,8 +48,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <iframe
 	src="https://docs.google.com/forms/d/e/1FAIpQLSd7va5FimeUcEE0-9ELdaCRDN70N8rdjHRU3OpW6Jx4N68xcQ/viewform?embedded=true" 
-	width="1000" 
-	height="2003" 
+	width="100%" 
+	height="1500" 
 	frameborder="0" 
 	marginheight="0" 
 	marginwidth="0">
