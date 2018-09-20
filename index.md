@@ -48,7 +48,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <iframe
 	src="https://docs.google.com/forms/d/e/1FAIpQLSd7va5FimeUcEE0-9ELdaCRDN70N8rdjHRU3OpW6Jx4N68xcQ/viewform?embedded=true" 
-	width="200" 
+	width="800" 
 	height="1000" 
 	frameborder="0" 
 	marginheight="0" 
@@ -204,30 +204,25 @@ and our administrator may contact you if we need any extra information.</h4>
 
 <h3>First lesson: The Unix Shell (Bash)</h3>
 
-<li>Lessons online : <a href="http://swcarpentry.github.io/shell-novice/">shell lessons</a>.</li>
-
+<li>Lessons online: <a href="http://swcarpentry.github.io/shell-novice/">shell lessons online</a>.</li>
 <li>Data to download: <a href="http://swcarpentry.github.io/shell-novice/data/data-shell.zip">download data</a>.</li>
-
 <li>Please unzip after downloading. If you are in Mac or Linux, you can use the following commands:</li>
-
 <li>Windows: you can download it and move it to the folder you plan on working in, then unzip it by right clicking</li>
-
 <li>Mac:</li>
-
-curl -O http://swcarpentry.github.io/shell-novice/data/shell-novice-data.zip
-
+<li>curl -O http://swcarpentry.github.io/shell-novice/data/shell-novice-data.zip</li>
 <li>unzip shell-novice-data.zip</li>
-
 <li>Linux:</li>
-
-wget http://swcarpentry.github.io/shell-novice/data/shell-novice-data.zip
-
+<li>wget http://swcarpentry.github.io/shell-novice/data/shell-novice-data.zip</li>
 <li>unzip shell-novice-data.zip</li>
 
 
 
 
+<h3>Third lesson: Git</h3>
 
+<li>Lessons online : http://swcarpentry.github.io/git-novice/</li>
+
+<li>You will need an account at github.com for parts of the Git lesson. Basic GitHub accounts are free. We encourage you to create a GitHub account if you don't have one already. Please consider what personal information you'd like to reveal. For example, you may want to review these instructions for keeping your email address private provided at GitHub.</li>
 
 
 
