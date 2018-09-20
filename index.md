@@ -48,7 +48,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <iframe
 	src="https://docs.google.com/forms/d/e/1FAIpQLSd7va5FimeUcEE0-9ELdaCRDN70N8rdjHRU3OpW6Jx4N68xcQ/viewform?embedded=true" 
-	width="640" 
+	width="1000" 
 	height="2003" 
 	frameborder="0" 
 	marginheight="0" 
