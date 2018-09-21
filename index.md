@@ -204,23 +204,32 @@ and our administrator may contact you if we need any extra information.</h4>
 
 <h3>First lesson: The Unix Shell (Bash)</h3>
 
-<li>Lessons online: <a href="http://swcarpentry.github.io/shell-novice/">shell lessons online</a>.</li>
-<li>Data to download: <a href="http://swcarpentry.github.io/shell-novice/data/data-shell.zip">download data</a>.</li>
-<li>Please unzip after downloading. If you are in Mac or Linux, you can use the following commands:</li>
-<li>Windows: you can download it and move it to the folder you plan on working in, then unzip it by right clicking</li>
-<li>Mac:</li>
-<li>curl -O http://swcarpentry.github.io/shell-novice/data/shell-novice-data.zip</li>
-<li>unzip shell-novice-data.zip</li>
-<li>Linux:</li>
-<li>wget http://swcarpentry.github.io/shell-novice/data/shell-novice-data.zip</li>
-<li>unzip shell-novice-data.zip</li>
+Lessons online: <a href="http://swcarpentry.github.io/shell-novice/">shell lessons online</a>
+
+Data to download: <a href="http://swcarpentry.github.io/shell-novice/data/data-shell.zip">download data</a>
+
+Please unzip after downloading. If you are in Mac or Linux, you can use the following commands:
+
+Windows: you can download it and move it to the folder you plan on working in, then unzip it by right clicking
+
+Mac:
+
+curl -O http://swcarpentry.github.io/shell-novice/data/shell-novice-data.zip
+
+unzip shell-novice-data.zip
+
+Linux:
+
+wget http://swcarpentry.github.io/shell-novice/data/shell-novice-data.zip
+
+unzip shell-novice-data.zip
 
 
 
 
 
 <h3>Second lesson: Python</h3>
-<a>Lessons online: <a href="https://swcarpentry.github.io/python-novice-gapminder/">python lessons online</a>.</li>
+Lessons online: <a href="https://swcarpentry.github.io/python-novice-gapminder/">python lessons online</a>
 
 Data to download: https://swcarpentry.github.io/python-novice-gapminder/files/python-novice-gapminder-data.zip
 
@@ -233,7 +242,7 @@ Windows: you can download it and move it to the folder you plan on working in, t
 
 Mac:
 
-curl -O https://swcarpentry.github.io/python-novice-gapminder/files/python-novice-gapminder-data.zip/p>
+curl -O https://swcarpentry.github.io/python-novice-gapminder/files/python-novice-gapminder-data.zip/
 
 unzip python-novice-gapminder-data.zip
 
@@ -250,7 +259,7 @@ unzip python-novice-gapminder-data.zip
 
 <h3>Third lesson: Git</h3>
 
-<p>Lessons online: <a href="http://swcarpentry.github.io/git-novice/">git lessons online</a>.</li>
+<p>Lessons online: <a href="http://swcarpentry.github.io/git-novice/">git lessons online</a>
 
 <p>You will need an account at github.com for parts of the Git lesson. Basic GitHub accounts are free. We encourage you to create a GitHub account if you don't have one already. Please consider what personal information you'd like to reveal. For example, you may want to review these instructions for keeping your email address private provided at GitHub.</p>
 
