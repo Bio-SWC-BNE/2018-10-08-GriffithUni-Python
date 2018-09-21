@@ -10,8 +10,8 @@ humandate: "October 8-10 2018"    # human-readable dates for the workshop (e.g.,
 humantime: "9.00am - 5.00pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2018-10-08      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2018-10-10        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Kim Keogh"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Amanda Miotto, Dan Devaprakash"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+instructor: ["Amanda Miotto, Kim Keogh"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Dan Devaprakash"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["hackyhour@griffith.edu.au "]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -218,9 +218,39 @@ and our administrator may contact you if we need any extra information.</h4>
 
 
 
+
+<h3>Second lesson: Python</h3>
+<a>Lessons online: <a href="https://swcarpentry.github.io/python-novice-gapminder/">python lessons online</a>.</li>
+
+Data to download: https://swcarpentry.github.io/python-novice-gapminder/files/python-novice-gapminder-data.zip
+
+You need to download to your computer, use the following...
+
+
+Please unzip after downloading. If you are in Mac or Linux, you can use the following commands:
+
+Windows: you can download it and move it to the folder you plan on working in, then unzip it by right clicking
+
+Mac:
+
+curl -O https://swcarpentry.github.io/python-novice-gapminder/files/python-novice-gapminder-data.zip/p>
+
+unzip python-novice-gapminder-data.zip
+
+Linux:
+
+wget https://swcarpentry.github.io/python-novice-gapminder/files/python-novice-gapminder-data.zip
+
+unzip python-novice-gapminder-data.zip
+
+
+
+
+
+
 <h3>Third lesson: Git</h3>
 
-<p>Lessons online : http://swcarpentry.github.io/git-novice/</p>
+<p>Lessons online: <a href="http://swcarpentry.github.io/git-novice/">git lessons online</a>.</li>
 
 <p>You will need an account at github.com for parts of the Git lesson. Basic GitHub accounts are free. We encourage you to create a GitHub account if you don't have one already. Please consider what personal information you'd like to reveal. For example, you may want to review these instructions for keeping your email address private provided at GitHub.</p>
 
