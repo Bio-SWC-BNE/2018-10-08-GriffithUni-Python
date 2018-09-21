@@ -204,7 +204,7 @@ and our administrator may contact you if we need any extra information.</h4>
 
 <h3>First lesson: The Unix Shell (Bash)</h3>
 
-Lessons online: <a href="http://swcarpentry.github.io/shell-novice/">shell lessons online</a>
+Lessons online: <a href="http://swcarpentry.github.io/shell-novice/"_blank">shell lessons online</a>
 
 Data to download: <a href="http://swcarpentry.github.io/shell-novice/data/data-shell.zip">download data for shell lesson</a>
 
@@ -231,7 +231,7 @@ unzip shell-novice-data.zip
 
 
 <h3>Second lesson: Python</h3>
-Lessons online: <a href="https://swcarpentry.github.io/python-novice-gapminder/">python lessons online</a>
+Lessons online: <a href="https://swcarpentry.github.io/python-novice-gapminder/"_blank">python lessons online</a>
 
 Data to download: <a href="https://swcarpentry.github.io/python-novice-gapminder/files/python-novice-gapminder-data.zip">download data for python lesson</a>
 
@@ -263,7 +263,7 @@ unzip python-novice-gapminder-data.zip
 
 <h3>Third lesson: Git</h3>
 
-Lessons online: <a href="http://swcarpentry.github.io/git-novice/">git lessons online</a>
+Lessons online: <a href="http://swcarpentry.github.io/git-novice/"_blank">git lessons online</a>
 
 You will need an account at github.com for parts of the Git lesson. Basic GitHub accounts are free. We encourage you to create a GitHub account if you don't have one already. Please consider what personal information you'd like to reveal. For example, you may want to review these instructions for keeping your email address private provided at GitHub.
 
