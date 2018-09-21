@@ -48,7 +48,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <iframe
 	src="https://docs.google.com/forms/d/e/1FAIpQLSd7va5FimeUcEE0-9ELdaCRDN70N8rdjHRU3OpW6Jx4N68xcQ/viewform?embedded=true" 
-	width="800" 
+	width="500px" 
 	height="1000" 
 	frameborder="0" 
 	marginheight="0" 
@@ -220,9 +220,9 @@ and our administrator may contact you if we need any extra information.</h4>
 
 <h3>Third lesson: Git</h3>
 
-<li>Lessons online : http://swcarpentry.github.io/git-novice/</li>
+<p>Lessons online : http://swcarpentry.github.io/git-novice/</p>
 
-<li>You will need an account at github.com for parts of the Git lesson. Basic GitHub accounts are free. We encourage you to create a GitHub account if you don't have one already. Please consider what personal information you'd like to reveal. For example, you may want to review these instructions for keeping your email address private provided at GitHub.</li>
+<p>You will need an account at github.com for parts of the Git lesson. Basic GitHub accounts are free. We encourage you to create a GitHub account if you don't have one already. Please consider what personal information you'd like to reveal. For example, you may want to review these instructions for keeping your email address private provided at GitHub.</p>
 
 
 
