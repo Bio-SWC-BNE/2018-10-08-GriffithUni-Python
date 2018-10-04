@@ -46,15 +46,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
-<iframe
-	src="https://docs.google.com/forms/d/e/1FAIpQLSd7va5FimeUcEE0-9ELdaCRDN70N8rdjHRU3OpW6Jx4N68xcQ/viewform?" 
-	width="100%" 
-	height="1000" 
-	frameborder="0" 
-	marginheight="0" 
-	marginwidth="0">
-	Loading...
-</iframe>
+<h3>This class is now fully booked. To be notified about our next class, <a href='http://goo.gl/forms/OzcK6M9XOeN8ifr52'>please complete this form<a>.</h3>
 
 {% comment %}
 <h4>This is the workshop template. Delete these lines and use it to customize your own website.
