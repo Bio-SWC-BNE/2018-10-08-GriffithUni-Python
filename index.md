@@ -46,7 +46,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
-<h3>This class is now fully booked. To be notified about our next class, <a href='http://goo.gl/forms/OzcK6M9XOeN8ifr52'>please complete this form<a>.</h3>
+This class is now fully booked. To be notified about our next class, <a href="http://goo.gl/forms/OzcK6M9XOeN8ifr52">please complete this form</a>.
 
 {% comment %}
 <h4>This is the workshop template. Delete these lines and use it to customize your own website.
