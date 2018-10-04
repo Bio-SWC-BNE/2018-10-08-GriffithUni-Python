@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "swc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
-venue: "Python Carpentry - Griffith University"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "Python Carpentry - Griffith University<br>Gold Coast campus G40_4.112 "        # brief name of host site without address (e.g., "Euphoric State University")
 address: "G40_4.112 Griffith Health Centre, Seminar Room"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "au"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "gb"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
